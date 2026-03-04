@@ -217,4 +217,4 @@ An interactive Tableau dashboard was created to explore client demographics (age
 
 This project was completed as part of the **DEEPP Data Analytics Program**.
 
-Data source: Internal bank records (Account Records + Credit Records datasets).
+**Data Source:** [Credit Card Approval Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) — via Kaggle (rikdifos)

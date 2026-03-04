@@ -15,4 +15,4 @@ and credit profile of bank clients.
 - Filterable by Age Group, Income Group, Work Year, and Credit Status
 
 ### View Live Dashboard
-🔗 [Click here to view on Tableau Public](#) ← replace with your link
+🔗 [Click here to view on Tableau Public](https://public.tableau.com/views/DEEPPProjectDashboard/AODABankCreditCardClientDemographicDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
